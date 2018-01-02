@@ -1,0 +1,90 @@
+body {
+  font-family: Georgia;
+  text-align: center;
+  /* background-image: url('../images/mountains.jpg');*/
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: whitesmoke;
+  font-size: 50px;
+  display: inline-block;
+  width: 100%;
+}
+
+h3 {
+  color: whitesmoke;
+  font-size: 15px;
+}
+
+.header {
+  align-content: center;
+  color: whitesmoke;
+  font-size: 50px;
+  border: 1px solid white;
+  padding: 0px 20px;
+  margin-right: 20px;
+  display: inline-block;
+  width: auto;
+}
+
+.mask {
+  background-color: black;
+  height: auto;
+  width: auto;
+}
+
+.mountainimagetop {
+  background-image: url('../images/mountains.jpg');
+  background-position: top;
+  height: auto;
+  width: auto;
+}
+
+.mountainimagemiddle {
+  background-image: url('../images/mountains.jpg');
+  background-position: center;
+  height: auto;
+  width: auto;
+}
+
+.mountainimagebottom {
+  background-image: url('../images/mountains.jpg');
+  background-position: bottom;
+  height: auto;
+  width: auto;
+}
+
+p {
+  font-size: 25px;
+  width: auto;
+  display: inline-block;
+  padding: 20px;
+  margin: 20px;
+}
+
+.p1 {
+    color: white;
+    background-color: purple;
+    opacity: .75;
+    width: 75%;
+}
+
+.p2 {
+    color: white;
+    background-color: violet;
+    opacity: .75;
+    width: 75%;
+}
+
+.p3 {
+    color: white;
+    background-color: yellow;
+    width: 75%;
+}
+
+.footer {
+background-color: skyblue;
+width: 100%;
+}
