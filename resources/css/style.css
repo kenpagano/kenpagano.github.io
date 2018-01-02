@@ -79,10 +79,32 @@ p {
 }
 
 .p3 {
-    color: white;
+    color: gray;
     background-color: yellow;
     width: 75%;
 }
+
+.p1:hover {
+    color: white;
+    background-color: blue;
+    opacity: .75;
+    width: 75%;
+}
+
+.p2:hover {
+    color: white;
+    background-color: turquoise;
+    opacity: .75;
+    width: 75%;
+}
+
+.p3:hover {
+    color: white;
+    background-color: orange;
+    width: 75%;
+}
+
+
 
 .footer {
   color: blue;
