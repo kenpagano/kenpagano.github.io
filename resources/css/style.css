@@ -36,21 +36,21 @@ h3 {
 }
 
 .mountainimagetop {
-  background-image: url('../images/mountains.JPG');
+  background-image: url('../images/background.jpg');
   background-position: top;
   height: auto;
   width: auto;
 }
 
 .mountainimagemiddle {
-  background-image: url('../images/mountains.JPG');
+  background-image: url('../images/background.jpg');
   background-position: center;
   height: auto;
   width: auto;
 }
 
 .mountainimagebottom {
-  background-image: url('../images/mountains.JPG');
+  background-image: url('../images/background.jpg');
   background-position: bottom;
   height: auto;
   width: auto;
