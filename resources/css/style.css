@@ -85,6 +85,30 @@ p {
 }
 
 .footer {
-background-color: beige;
-width: 100%;
+  color: blue;
+  background-color: white;
+  width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
 }
