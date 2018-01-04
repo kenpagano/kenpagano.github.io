@@ -13,6 +13,13 @@ h1 {
   width: 100%;
 }
 
+h2 {
+  color: whitesmoke;
+  font-size: 25px;
+  display: inline-block;
+  width: 100%;
+}
+
 h3 {
   color: whitesmoke;
   font-size: 15px;
@@ -36,24 +43,33 @@ h3 {
 }
 
 .mountainimagetop {
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/wheelwell_pencil.jpg');
   background-position: top;
   height: auto;
   width: auto;
 }
 
 .mountainimagemiddle {
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/wheelwell_pencil.jpg');
   background-position: center;
   height: auto;
   width: auto;
 }
 
 .mountainimagebottom {
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/wheelwell_pencil.jpg');
   background-position: bottom;
   height: auto;
   width: auto;
+}
+
+.sectionimage {
+  background-image: url('../images/wheelwell_pencil.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  border: 1px solid whitesmoke;
 }
 
 p {
@@ -133,4 +149,8 @@ a:hover {
 a:active {
     color: blue;
     text-decoration: none;
+}
+
+.bballpic {
+  width: 400;
 }

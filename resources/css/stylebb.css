@@ -1,0 +1,64 @@
+body {
+  font-family: Georgia;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: gray;
+  font-size: 50px;
+  display: inline-block;
+  width: 100%;
+}
+
+h2 {
+  color: gray;
+  font-size: 25px;
+  display: inline-block;
+  width: 100%;
+}
+
+h3 {
+  color: gray;
+  font-size: 15px;
+}
+
+p {
+  color: gray;
+  font-size: 15px;
+}
+
+.list {
+  width: 50%;
+  color:  black;
+  background-color: lightblue;
+  text-align: left;
+}
+
+/*li {
+  color: blue;
+  text-align: left;
+}*/
+
+/* unvisited link */
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
+}
